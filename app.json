@@ -1,0 +1,12 @@
+{
+  "name": "AppDioNavigation",
+  "displayName": "AppDioNavigation",
+  "expo": {
+    "name": "AppDioNavigation",
+    "slug": "AppDioNavigation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
